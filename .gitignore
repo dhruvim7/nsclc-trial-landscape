@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.DS_Store
+# raw download is large and can be rebuilt with: python -m ctlandscape run --refresh
+data/raw_studies.json
